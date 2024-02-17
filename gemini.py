@@ -1,5 +1,3 @@
-pip install python-dotenv
-
 # Streamlite front end
 # google-generativeai to access LLM model
 # python-dotenv to load environment variable
