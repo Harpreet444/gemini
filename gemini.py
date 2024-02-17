@@ -1,3 +1,5 @@
+pip install -r req.txt
+
 # Streamlite front end
 # google-generativeai to access LLM model
 # python-dotenv to load environment variable
