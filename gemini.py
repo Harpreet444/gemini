@@ -3,8 +3,8 @@
 # python-dotenv to load environment variable
 
 from PIL import Image
-from dotenv import load_dotenv
-load_dotenv()   # loading environment variable
+from dotenv import load_dotenv as ld
+ld()   # loading environment variable
 
 import streamlit as st
 import os
